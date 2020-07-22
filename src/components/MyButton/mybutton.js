@@ -1,5 +1,4 @@
 import React from "react";
-import "./mybutton.css";
 import PropTypes from "prop-types";
 
 const MyButton = ({ handleClick, _class }) => {
